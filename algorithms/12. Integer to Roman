@@ -1,0 +1,22 @@
+ public String intToRoman(int num) {
+        int[] values = {1000,900,500,400,100,90,50,40,10,9,5,4,1};
+        String[] romanSigns = {"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
+        Map<Integer,String> map = new LinkedHashMap<>();
+        StringBuilder romanNum = new StringBuilder();
+        for(int o = 0 ; o<values.length ; o++){
+            map.put(values[o],romanSigns[o]);
+        }
+        System.out.println(map);
+        while(num>0){
+            for(Integer k : map.keySet()){
+                int helper = num/k;
+                if(num/k>0){
+                    for(int j=0; j<helper;j++){
+                        romanNum.append(map.get(k));
+                    }
+                    num = num%k;
+                }
+            }
+        }
+        return romanNum.toString();
+    }
