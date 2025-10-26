@@ -5,9 +5,6 @@ This repository is a personal project aimed at improving my algorithmic thinking
 
 ---
 
-LeetCode
-========
-
 ### LeetCode Algorithm
 
 (Notes: "🔒" means you need to buy a book from Leetcode)
@@ -15,7 +12,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|12.|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java]
+|12.|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java] | Medium
 
 ## 🌐 Links
 
