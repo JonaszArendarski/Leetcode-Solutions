@@ -5,31 +5,17 @@ This repository is a personal project aimed at improving my algorithmic thinking
 
 ---
 
-## 📂 Repository Structure
+LeetCode
+========
 
-Each problem solution is stored in a separate file, named after the corresponding LeetCode problem.  
-Every solution includes:
-- 📝 Problem description (summary)
-- ⚙️ Algorithm explanation
-- ⏱️ Time and space complexity analysis
-- 💬 Code comments for clarity
+### LeetCode Algorithm
 
----
+(Notes: "🔒" means you need to buy a book from Leetcode)
 
-## 🛠️ Technologies
 
-- ☕ **Java 17+**  
-- 💻 **IntelliJ IDEA** (or any Java-compatible IDE)
-
----
-
-## 🎯 Goals
-
-- Strengthen problem-solving skills  
-- Learn and apply different algorithms and data structures  
-- Prepare for technical interviews  
-
----
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|12.|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java]
 
 ## 🌐 Links
 
