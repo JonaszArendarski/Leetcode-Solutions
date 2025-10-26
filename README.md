@@ -17,7 +17,7 @@ This repository is a personal project aimed at improving my algorithmic thinking
 ## 🌐 Links
 
 - 🔗 [LeetCode Profile](https://leetcode.com/) *https://leetcode.com/u/JohnnyDe/*  
-- 📘 [Java Documentation](https://docs.oracle.com/en/java/)  
+ 
 
 ---
 
