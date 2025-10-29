@@ -13,6 +13,7 @@ This repository is a personal project aimed at improving my algorithmic thinking
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |12.|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java] | Medium
+|4.|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Java] | Hard
 
 ## 🌐 Links
 
